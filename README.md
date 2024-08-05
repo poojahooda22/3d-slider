@@ -3,5 +3,5 @@
 This template provides 
 Currently, two o
 
-- [@vitejs/pl
+- [@vitejs
 
