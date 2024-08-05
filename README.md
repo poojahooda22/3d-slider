@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides 
-Currently, two official p
+Currently, two officia
 
 - [@vitejs/plugin-react](https://gi
 - [@vitejs/plugin-react-swc](
