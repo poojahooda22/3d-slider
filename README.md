@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a mi
+This template provides 
 Currently, two official plugin
 
 - [@vitejs/plugin-react](https://gi
