@@ -1,6 +1,6 @@
 # React + Vite
 
-This template pro
+This template 
 Curre
 
 
