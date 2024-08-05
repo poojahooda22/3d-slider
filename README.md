@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React wo
+This template provides a minimal setup to get Reac
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-p
