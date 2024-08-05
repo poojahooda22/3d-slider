@@ -3,5 +3,5 @@
 This template provides a mi
 Currently, two official plugin
 
-- [@vitejs/plugin-react](https://github.c
+- [@vitejs/plugin-react](https://gi
 - [@vitejs/plugin-react-swc](https://githu
