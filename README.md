@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides 
-Currently, two officia
+Currently, two o
 
 - [@vitejs/plugin
 
