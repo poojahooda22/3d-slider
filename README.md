@@ -1,6 +1,5 @@
 # React + Vite
 
-This te
 
 
 
